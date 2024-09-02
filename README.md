@@ -15,6 +15,7 @@
 - 📫 How to reach me **vigneshkumar3233@gmail.com**
 
 - ⚡ Fun fact **I am not Dead💀**
+- checkout my [portfolio](https://kasanivigneshkumar.netlify.app/) 
 
 ### Network
 <div>
