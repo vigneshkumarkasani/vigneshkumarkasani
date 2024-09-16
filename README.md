@@ -21,7 +21,8 @@
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-7B52AB?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <script src="https://tryhackme.com/badge/2622111" ></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/vigneshkumar.png" alt="TryHackMe">
+
 
 </div>
 
