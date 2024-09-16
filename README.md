@@ -15,12 +15,13 @@
 - 📫 How to reach me **vigneshkumar3233@gmail.com**
 
 - ⚡ Fun fact **I am not Dead💀**
-- checkout my [portfolio](https://vigneshkkumar.netlify.app/) 
+- checkout my [portfolio](https://kasanivigneshkumar.netlify.app/) 
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-7B52AB?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <script src="https://tryhackme.com/badge/2622111"></script>
 
 </div>
 
