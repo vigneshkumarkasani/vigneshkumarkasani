@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Cyber Security aspirant </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4e/e8/98/4ee8988e43cbc78aa61e0c89ddb57144.gif" alt="coding" width="400">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400">
 </p>
 
 - 🔭 I’m currently working on **MYSELF**
