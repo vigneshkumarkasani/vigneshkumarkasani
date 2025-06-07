@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08839e97-e08c-496b-9645-dbb2e064423e)
+
 <h1 align="center">Hello 👋, I'm  VIGNESH KUMAR KASANI</h1>
 <h3 align="center">A passionate Cyber Security aspirant </h3>
 
