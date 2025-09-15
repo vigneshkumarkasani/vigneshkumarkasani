@@ -1,47 +1,85 @@
+# 👋 Hello, I'm VIGNESH KUMAR KASANI
 
-<h1 align="center">Hello 👋, I'm  VIGNESH KUMAR KASANI</h1>
-<h3 align="center">Cybersecurity Researcher | Web-app Penetration Tester </h3>
+### Cybersecurity Researcher | Web-app Penetration Tester
+
+---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400" style="max-width:100%;">
 </p>
-- 🔐 Highly motivated and detail-oriented cybersecurity researcher
-- 🛡️ Specializing in penetration testing and digital forensics
-- 🔍 Skilled in reconnaissance and OSINT
-- 🌐 Focus on web security with tools like Burp Suite, OpenVAS, Nessus
-- 🧪 Forensics: TSK, Autopsy, EaseUS, Hex editors, Hashdump
-- 📊 SIEM: Splunk, Microsoft Sentinel
-- 🧑‍💻 Coding: Python, Bash, JavaScript, HTML, CSS, SQL
-- 🖥️ Strong understanding of operating systems
-- ⚡ Fun fact: I am not dead 💀
+
+- 🔐 Highly motivated and detail-oriented cybersecurity researcher  
+- 🛡️ Specializing in penetration testing and digital forensics  
+- 🔍 Skilled in reconnaissance and OSINT  
+- 🌐 Focus on web security with tools like Burp Suite, OpenVAS, Nessus  
+- 🧪 Forensics: TSK, Autopsy, EaseUS, Hex editors, Hashdump  
+- 📊 SIEM: Splunk, Microsoft Sentinel  
+- 🧑‍💻 Coding: Python, Bash, JavaScript, HTML, CSS, SQL  
+- 🖥️ Strong understanding of operating systems  
+- ⚡ Fun fact: I am not dead 💀  
 - 🔗 Portfolio: [kvk-portfolio](https://kvk-portfolio.firebaseapp.com/)
 
+---
 
-### Tools&Skills
-<div>
-  <img src="https://camo.githubusercontent.com/13e2e90e8359ef345d5cd81d73a2546730db8d408f00e780345091e3fb74349f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d627572707375697465266c6f676f436f6c6f723d7768697465"/>
-  <img src="https://camo.githubusercontent.com/82696ae28e9ab862ce87a81a45000ac09842d814645a276eea23888feecb1736/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65737375732d3030414445463f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e61626c65266c6f676f436f6c6f723d7768697465"/>
-  <img src= "https://camo.githubusercontent.com/66bedfd0c3f052b58ff0ff65dc7e47377f54310b78171cb2870dd4b102008e4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706c756e6b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d73706c756e6b266c6f676f436f6c6f723d7768697465"/>
-  <img src="https://camo.githubusercontent.com/65b0ddabdd5ba0e89bb5b62eb4ad461cb15d359957ec6e569f770dc9093fe4df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f53656e74696e656c2d3545354535453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f6674266c6f676f436f6c6f723d7768697465"/>
-  <img src= "https://camo.githubusercontent.com/6142e5b82041149e1bac6f11cd1ccb487709a68550b116a3e06b8d6422b7c852/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54534b2d4175746f7073792d3334343935453f7374796c653d666f722d7468652d6261646765"/>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-7B52AB?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    </div>
-    <div><img src="https://tryhackme-badges.s3.amazonaws.com/DarkShad0w28.png" alt="Your Image Badge" />
-</div>
+## 🛠️ Tools & Skills
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vignesh-kumar-kasani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vignesh-kumar-kasani" height="30" width="40" /></a>
-<a href="https://kaggle.com/vigneshkumar323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vigneshkumar323" height="30" width="40" /></a>
-<a href="https://instagram.com/@iammkvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iammkvk" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vigneshkumar3233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vigneshkumar3233" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vigneshkuecb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vigneshkuecb1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-F6F000?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-0AD8EF?style=for-the-badge&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/TSK-AUTOPSY-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-7B52AB?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshkumarkasani&show_icons=true&locale=en&layout=compact" alt="vigneshkumarkasani" /></p>
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vignesh-kumar-kasani" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://kaggle.com/vigneshkumar323" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/@iammkvk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/vigneshkumar3233" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vigneshkuecb1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshkumarkasani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
