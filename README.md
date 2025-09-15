@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm  VIGNESH KUMAR KASANI</h1>
-<h3 align="center">A passionate Cyber Security aspirant </h3>
+<h3 align="center">Cybersecurity Researcher | Web-app Penetration Tester </h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400">
