@@ -6,8 +6,8 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400">
 </p>
 
-🔐 I am a highly motivated and detail-oriented cybersecurity researcher.
-🛡️ I specializing in penetration testing, digital forensics.
+-🔐 I am a highly motivated and detail-oriented cybersecurity researcher.
+-🛡️ I specializing in penetration testing, digital forensics.
 🔍 I am skilled in reconnaissance and OSINT.
 🌐 I focus on web security, using tools like Burp Suite for manual testing and OpenVAS, and Nessus for automation.
 🧪 For digital forensics, I work with tools such as The Sleuth Kit (TSK), Autopsy, EaseUS, Hex editors, and Hashdump.
