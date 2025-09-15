@@ -6,19 +6,22 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW80end5MzFxcWxrejFnc3NhZHlxa2lvOGY0emU0cG1zMmV2czNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400">
 </p>
 
-- 🔭 I’m currently working on **MYSELF**
+🔐 I am a highly motivated and detail-oriented cybersecurity researcher.
+🛡️ I specializing in penetration testing, digital forensics.
+🔍 I am skilled in reconnaissance and OSINT.
+🌐 I focus on web security, using tools like Burp Suite for manual testing and OpenVAS, and Nessus for automation.
+🧪 For digital forensics, I work with tools such as The Sleuth Kit (TSK), Autopsy, EaseUS, Hex editors, and Hashdump.
+📊 Experienced with SIEM tools like Splunk and Microsoft Sentinel.
+🧑‍💻 I understand and read code in python, Bash, JavaScript, HTML, CSS, and SQL.
+🖥️ I have a good understanding of operating systems
 
--  **B-tech Computer science (Cyber security)**
-
-- 💬 Ask me about **solving CTFs,learning new things**
-
-- 📫 How to reach me **vigneshkumar3233@gmail.com**
 
 - ⚡ Fun fact **I am not Dead💀**
 - checkout my [portfolio](https://kvk-portfolio.firebaseapp.com/) 
 
-### Network
+### Tools&Skills
 <div>
+  <img src="https://camo.githubusercontent.com/13e2e90e8359ef345d5cd81d73a2546730db8d408f00e780345091e3fb74349f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d627572707375697465266c6f676f436f6c6f723d7768697465"/>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-7B52AB?&style=for-the-badge&logo=Nmap&logoColor=white" />
     </div>
