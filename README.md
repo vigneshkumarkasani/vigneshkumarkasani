@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.reddit.com/r/gifs/comments/14km8o/100_accurate_depiction_of_a_hackers_desktop" alt="coding" width="400" style="max-width:100%;">
+  <img src="https://external-preview.redd.it/s_Nqv1ddETwFTiJlGJBXKGEpBK2-HQz-K3IWmp2aauM.gif?width=1366&format=mp4&s=b0f61e520e337955a840227bcb635d4bd542f001" alt="coding" width="400" style="max-width:100%;">
 </p>
 
 ---
