@@ -6,6 +6,7 @@
 📌 *“Securing the future by ethically exploiting the present.”*
 
 </div>
+---
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Active%20Player-brightgreen?logo=hackthebox)
