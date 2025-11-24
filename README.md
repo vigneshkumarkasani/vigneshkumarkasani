@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/g4sCZhKykg1z2/giphy.gif" alt="coding" width="400" style="max-width:100%;">
+  <img src="[https://media4.giphy.com/media/g4sCZhKykg1z2/giphy.gif](https://www.reddit.com/r/gifs/comments/14km8o/100_accurate_depiction_of_a_hackers_desktop/#lightbox)" alt="coding" width="400" style="max-width:100%;">
 </p>
 
 ---
