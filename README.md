@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://share.google/images/8uoFbwzlvnsI2VHu8" alt="coding" width="400" style="max-width:100%;">
+  <img src="" alt="coding" width="400" style="max-width:100%;">
 </p>
 
 ---
