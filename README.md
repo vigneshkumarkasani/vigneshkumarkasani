@@ -93,6 +93,7 @@
   <a href="https://hackerrank.com/vigneshkumar3233" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
   <a href="https://instagram.com/iammkvk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
 </p>
+<img src="https://streak-stats.demolab.com/?user=vigneshkumarkasani&theme=dark" />
 
 ---
 
