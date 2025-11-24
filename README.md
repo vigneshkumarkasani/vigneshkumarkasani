@@ -87,14 +87,12 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=vigneshkumarkasani&theme=matrix&no-frame=true&margin-w=15"
-    alt="GitHub Trophies"
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vigneshkumarkasani&theme=discord&no-frame=true&margin-w=15" />
 </p>
+
 
 
 ---
