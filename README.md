@@ -1,12 +1,17 @@
 <div align="center">
 
-# 👋 Hello, I'm **VIGNESH KUMAR KASANI**
+# 👋 Hello, I'm <strong>VIGNESH KUMAR KASANI</strong>
 
-### 🚀 Cybersecurity Researcher | Web Application Penetration Tester  
-📌 *“Securing the future by ethically exploiting the present.”*
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Web+Application+Penetration+Tester;Bug+Bounty+Enthusiast;Breaking+and+Securing+Web+Apps" alt="Typing SVG" />
+
+📌 <em>“Securing the future by ethically exploiting the present.”</em>
 
 </div>
+
 ---
+
+<div align="center">
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Active%20Player-brightgreen?logo=hackthebox)
@@ -14,7 +19,10 @@
 ![Linux](https://img.shields.io/badge/Linux-Power%20User-black?logo=linux)
 ![Pentesting](https://img.shields.io/badge/Offensive%20Security-Enthusiast-red?logo=kalilinux)
 
+</div>
+
 ---
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ODdzMG9sbnI5bXNzaDZsaGJleGJ0YzFjcDNqMTFybmlidDh0cTVpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="coding" width="400" style="max-width:100%;">
