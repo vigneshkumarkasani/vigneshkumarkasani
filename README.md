@@ -29,7 +29,7 @@
 - ⚡ *Fun fact:* I hack responsibly 💀
 
 📁 **Portfolio:** https://kvk-portfolio.web.app/  
-🚀 **Recent Project:** AWS S3 exploitation lab *(added to portfolio & GitHub)*
+🚀 **Recent Project:** AWS S3 exploitation lab 
 
 ---
 
