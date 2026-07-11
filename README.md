@@ -1,119 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:8E2DE2&height=200&section=header&text=Vignesh%20Kumar%20Kasani&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Web%20%26%20Cloud%20Pentester&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hello, I'm <strong>VIGNESH KUMAR KASANI</strong>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Breaking+things+ethically+since+day+one;VAPT+%7C+AWS+Exploitation+%7C+OSINT;Bug+Bounty+Hunter+%F0%9F%90%9E" alt="Typing SVG" />
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Web+Application+Penetration+Tester;Bug+Bounty+Enthusiast;Breaking+and+Securing+Web+Apps" alt="Typing SVG" />
 
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-F75C7E?style=for-the-badge&logoColor=white)](https://kvk-portfolio.web.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshkumarkasani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/vigneshkumar3233)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iammkvk)
+📌 <em>"Securing the future by ethically exploiting the present."</em>
 
 </div>
 
-<br>
-
-## 🏆 Achievements
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TryHackMe-Top%203%25-8E2DE2?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackTheBox-Active%20Player-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/eJPT-Certified-FF6B00?style=for-the-badge&logo=ine&logoColor=white"/>
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?logo=tryhackme)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Active%20Player-brightgreen?logo=hackthebox)
+![eJPT](https://img.shields.io/badge/eJPT-Certified-blue?logo=ine)
+![Linux](https://img.shields.io/badge/Linux-Power%20User-black?logo=linux)
+![Pentesting](https://img.shields.io/badge/Offensive%20Security-Enthusiast-red?logo=kalilinux)
 
 </div>
 
-<br>
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG42bnBxczh6cmJlaTNoMDdldnRqbzZiMHQxcW4xczM4bmw1MHBuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HoffxyN8ghVuw/giphy.gif" alt="coding" width="400" style="max-width:100%;">
+</p>
+
+---
 
 ## 🔥 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG42bnBxczh6cmJlaTNoMDdldnRqbzZiMHQxcW4xczM4bmw1MHBuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HoffxyN8ghVuw/giphy.gif" width="260"/>
+- 🛡️ Cybersecurity researcher focused on **Web & Cloud Penetration Testing**
+- 🔐 Hands-on experience identifying **misconfigurations, access control flaws, and cloud IAM/storage exposures** (AWS)
+- 🧪 Building practical labs in **ethical hacking, digital forensics & OSINT**
+- 📊 Working knowledge of **SIEM monitoring** (Splunk, Microsoft Sentinel)
+- 🧑‍💻 Automating recon and testing workflows with **Python & Bash**
+- 🎯 Currently working toward: **[e.g. OSCP / cloud security specialization — fill in your actual goal]**
 
-- 🛡️ Cybersecurity enthusiast specializing in **Web & Cloud Pentesting**
-- 🔐 Hands-on experience in **VAPT** and **AWS exploitation labs**
-- 🧪 Researching **ethical hacking, digital forensics & OSINT**
-- 📊 Working knowledge of **SIEM monitoring** — Splunk, Microsoft Sentinel
-- 🐍 Automating security testing with **Python & Bash**
-- 🎯 Currently leveling up: **Cloud security & Active Directory attacks**
-- ⚡ *Fun fact:* I hack responsibly 💀
+📁 **Portfolio:** https://kvk-portfolio.web.app/
+🚀 **Recent Project:** AWS S3 exploitation lab — demonstrating **[specific misconfig, e.g. public-read bucket ACLs / overly permissive IAM policy]**
 
-<br clear="right">
+---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Core Tools & Security Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nessus-13A10E?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-7B52AB?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-7B52AB?style=for-the-badge&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nessus-13A10E?style=for-the-badge&logo=tenable&logoColor=white"/>
+---
 
-<br>
+## 💻 Languages & Technologies
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
 
-</div>
+---
 
-<br>
+## 🚀 Featured Security Projects
 
-## 🚀 Featured Projects
+| 🔐 Project | 💡 What it demonstrates | 🧰 Stack | 🔗 Link |
+|------------|--------------------------|----------|---------|
+| **AWS S3 Exploitation Lab** | Enumerated exposed buckets, abused leaked Git credentials to escalate access, and documented impact of **[specific misconfig]** | Python, boto3, AWS CLI | [Link](https://github.com/vigneshkumarkasani/aws-s3-bucket-exploitation-lab) |
+| **Network Sniffer (Python)** | Captured and analyzed 200K+ packets; flagged **[e.g. anomalous connections / simulated malicious traffic patterns]** | Python, Scapy | [Link](https://github.com/vigneshkumarkasani/networksniffer) |
+| **Advanced Web Crawler** | Automated scraping pipeline feeding vulnerability research and recon workflows | Python | [Link](https://github.com/vigneshkumarkasani/Web-crawler) |
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
+---
 
-### 🪣 AWS S3 Exploitation Lab
-Enumeration, Git credential abuse & bucket access testing.
+## 📝 Writeups & Research
 
-[**→ View Repo**](https://github.com/vigneshkumarkasani/aws-s3-bucket-exploitation-lab)
+> Add links to your TryHackMe / HackTheBox writeups, CTF placements, or blog posts here — this is one of the strongest credibility signals for a security profile.
 
-</td>
-<td width="33%" valign="top">
+- [ ] **[Writeup title]** — brief one-liner on what it covers
+- [ ] **[CTF name / placement]** — e.g. "Top 10 finish, XYZ CTF 2026"
 
-### 🕸️ Network Sniffer
-200K+ packets analyzed with malicious traffic filtering.
-
-[**→ View Repo**](https://github.com/vigneshkumarkasani/networksniffer)
-
-</td>
-<td width="33%" valign="top">
-
-### 🕷️ Advanced Web Crawler
-Automated vulnerability research via scraped data.
-
-[**→ View Repo**](https://github.com/vigneshkumarkasani/Web-crawler)
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshkumarkasani&show_icons=true&layout=compact" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshkumarkasani&show_icons=true&layout=compact&theme=radical&hide_border=true"/>
+---
 
-<br>
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=vigneshkumarkasani&theme=radical&no-frame=true&margin-w=15&row=1"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigneshkumarkasani&theme=discord&no-frame=true&margin-w=15" />
+</p>
 
-</div>
+---
 
-<br>
+## 📬 Connect with Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/vigneshkumarkasani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+  <a href="https://hackerrank.com/vigneshkumar3233" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
+  <a href="https://instagram.com/iammkvk" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+  <!-- Consider adding an email/contact CTA here for recruiters -->
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:F75C7E&height=120&section=footer"/>
+---
 
-**⭐ Star my repos if you find the work interesting — let's hack something (ethically) together!**
+⭐ *If you find my work interesting, consider starring my repositories!*
+🔒 *Open to responsible disclosure discussions and collaboration on security research.*
 
-</div>
