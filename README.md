@@ -34,7 +34,7 @@
 
 - 🛡️ Cybersecurity enthusiast specializing in **Web & Cloud Pentesting**
 - 🔐 Strong hands-on experience in **VAPT, AWS exploitation labs**
-- 🧪 Researching **ethical hacking, digital forensics & OSINT**
+- 🧪 Researching **ethical hacking, digital forensics,OSINT & Threat Intelligence**
 - 📊 Knowledge in **SIEM monitoring using Splunk, Microsoft Sentinel**
 - 🧑‍💻 Automating security testing with **Python & Bash**
 - ⚡ *Fun fact:* I hack responsibly 💀
