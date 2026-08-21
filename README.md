@@ -3,7 +3,7 @@
 # 👋 Hello, I'm <strong>VIGNESH KUMAR KASANI</strong>
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Web+Application+Penetration+Tester;Bug+Bounty+Enthusiast;Breaking+and+Securing+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Web+Application+Penetration+Tester;Bug+Bounty+Enthusiast;Breaking+and+Securing+Web+Apps;vulnerability+Intelligence;Threat+Intelligence" alt="Typing SVG" />
 
 📌 <em>“Securing the future by ethically exploiting the present.”</em>
 
